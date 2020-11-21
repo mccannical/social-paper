@@ -26,7 +26,7 @@ steps to run:
     - comments has the count of comments embedded in the filename.  
 
 - Upload the comments folder to google drive.  
-- Add the MonkeyLearn addon in sheets  
+- Integrate MonkeyLearn to Google Sheets
     - [Instructions from Monkey Learn](https://monkeylearn.com/google-sheets)  
 - Add API key to the tool  
 - Start processing files to get the sentiment analysis  
