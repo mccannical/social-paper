@@ -1,5 +1,7 @@
 # start.sh
 ### Takes a list of youtube IDs, downloads the comments in json, and converts them to tsv. 
+This script leverages software in this repo: https://github.com/egbertbouman/youtube-comment-downloader. 
+
 
 steps to run:
 - Gather a list of youtube videos:  
